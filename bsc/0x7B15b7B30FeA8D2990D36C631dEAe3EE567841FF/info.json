@@ -1,0 +1,11 @@
+{
+"name": "Family",
+"website": "http://www.fimcommunity.com",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x7B15b7B30FeA8D2990D36C631dEAe3EE567841FF",
+"type": "BEP20",
+"symbol": "FIM",
+"decimals": 18,
+"status": "active",
+"id": "0x7B15b7B30FeA8D2990D36C631dEAe3EE567841FF"
+}
